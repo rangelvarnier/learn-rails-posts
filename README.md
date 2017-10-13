@@ -1,24 +1,16 @@
-# README
+**App criado em estudo de ruby on rails.**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Scaffolds
+* Migrations
+* Internacionalização - I18n
+* File upload
+* Autenticação - devise
+* Paginação
+* Email
 
-Things you may want to cover:
+#install
+_Rails version:_ **5.1.4**
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* bundle
+* rails db:migrate
+* rails s
